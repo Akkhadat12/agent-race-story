@@ -2,6 +2,8 @@
 
 An interactive, desktop-first 2D visual story about AI agents in cyber offense and defense. The images are conceptual illustrations, not records of actual incidents or quantitative diagrams.
 
+**Live story:** https://akkhadat12.github.io/agent-race-story/
+
 ## Controls
 
 - Click the highlighted object in each scene to continue.
