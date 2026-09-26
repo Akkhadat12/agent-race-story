@@ -15,6 +15,6 @@ An interactive, desktop-first 2D visual story about AI agents in cyber offense a
 
 Serve this directory as a static site. `index.html` is the entry point. There is no build step.
 
-## Artwork
+## Artwork and background
 
-Original AI-generated conceptual artwork was created for this project. Named organizations and measured statistics are intentionally absent from the visual scenes. The Thai reading documents and scene guide provide the evidence and limitations.
+The seven scenes use original, authored SVG diagrams. Their ivory grid background evokes a working evidence board; copper marks the attacker workflow, teal marks the defender workflow, and navy frames the organization's controls. Color and line width are editorial cues, not measured quantities. There are no ImageGen images in this version. The Thai reading documents and scene guide provide the evidence and limitations.
